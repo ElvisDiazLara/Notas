@@ -1,10 +1,12 @@
-package com.example.notas;
+package com.example.notas.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+
+import com.example.notas.R;
 
 public class CreateNoteActivity extends AppCompatActivity {
 
